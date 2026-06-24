@@ -353,7 +353,7 @@ EOF
   echo "  3)  Biggest space hogs (folders & files)"
   echo "  4)  Find duplicate files (report only)"
   echo "  5)  Scan junk (caches, logs, trash)"
-  echo "  6)  Clean junk  →  recoverable Trash quarantine"
+  echo "  6)  Clean junk  →  recoverable quarantine"
   echo "  7)  Empty Trash (permanent)"
   echo "  8)  App leftovers to review"
   echo "  9)  Serato & gaming tune-up tips"
